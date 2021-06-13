@@ -21,7 +21,7 @@ pip install beautifulsoup4
 ## Usage
 
 <p align="center">
-	<video src="pictures/demo.mp4" width="50%" />
+	<img src="pictures/demo-lite.gif" width="50%" />
 </p>
 
 - Go to your liked songs page in youtube music
